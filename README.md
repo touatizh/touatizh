@@ -41,5 +41,14 @@
     </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="450"/>
 </div>
+---
+
+### :man_technologist: About Me : I'm a seasoned Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing expertise in full-stack web development.
+
+- :helicopter: I'm a helicopter pilot by profession, but in my spare time, I delve into the world of coding to pursue my passion for development..
+
+- :zap: I developed my Python skills doing some personal projects that are still in the making at the moment. Those projects aim to make both my work and my day to day life easier, including a "Pilot logbook", an "AI voice Assistant" and a "Trading Bot".
+
+- :seedling: Also aspiring next to delve into the world of web development and currently enrolled in a full-stack development bootcamp.
