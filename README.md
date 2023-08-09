@@ -59,6 +59,11 @@ I'm a seasoned Python developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+    <p>
+        <picture>
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touatizh&layout=compact" alt="Top used languages"/>
+        </picture>
+    </p>
     <picture>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     </picture>
@@ -105,11 +110,11 @@ I'm a seasoned Python developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :bar_chart: Stats :
 <div align="center">
     <picture>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=touatizh&hide_border=true" alt="My stats"/>
-    </picture><br>
-    <!-- <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touatizh&layout=compact" alt="Top used languages"/>
-    </picture> -->
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=touatizh&hide_border=true" alt="My stats"/>
+    </picture>
+    <picture>
+        <img src="https://github-profile-trophy.vercel.app/?username=touatizh&row=1&no-frame=true&no-bg=true" alt="My trophies"/>
+    </picture>
 </div>
 
 ---
