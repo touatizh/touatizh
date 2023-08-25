@@ -47,7 +47,6 @@ As I recognize the limitless potential within technology, I am currently deepeni
             src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge"
             alt="Facebook Badge"/>
     </a><br>
-    
     <img src="https://komarev.com/ghpvc/?username=touatizh&style=flat-square&color=blue" alt=""/>
 </div>
 
