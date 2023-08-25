@@ -1,8 +1,21 @@
-<div id="header" align="center">
-    <img
-        src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"
-        width="180"/>
+<div align="center">
+    <h1>
+        Hey Hello
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="450"/>
 </div>
+
+---
+
+### :man_technologist: About Me : 
+
+Hello! I'm Helmi, a helicopter pilot by day 🚁 and a passionate Python developer by night <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+
+I've honed my Python skills over the years, embarking on multiple projects that cater to the aviation industry and beyond. My active developments include a digital "Pilot Logbook", an "AI Voice Assistant", and a comprehensive "Trading Bot".
+
+As I recognize the limitless potential within technology, I am currently deepening my expertise in full-stack web development via a structured bootcamp. My ultimate goal is to harmoniously merge my love for flying with my passion for coding, creating tools and solutions that resonate in both domains.
+
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/helmi-touati-451518273">
         <img
@@ -34,26 +47,9 @@
             src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge"
             alt="Facebook Badge"/>
     </a><br>
+    
     <img src="https://komarev.com/ghpvc/?username=touatizh&style=flat-square&color=blue" alt=""/>
-    <h1>
-        Hey Hello
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="450"/>
-</div>
-
----
-
-### :man_technologist: About Me : 
-I'm a seasoned Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing expertise in full-stack web development.
-
-- :helicopter: I'm a helicopter pilot by profession, but in my spare time, I delve into the world of coding to pursue my passion for development..
-
-- :zap: I developed my Python skills doing some personal projects that are still in the making at the moment. Those projects aim to make both my work and my day to day life easier, like a "Pilot logbook", an "AI voice Assistant" and a "Trading Bot".
-
-- :seedling: Also aspiring to delve into the world of web development and currently enrolled in a full-stack development bootcamp.
 
 ---
 
